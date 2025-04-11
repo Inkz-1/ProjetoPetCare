@@ -3,6 +3,6 @@
 
 <h3> 🟤 Preview </h3>
 <p> Pequeno projeto feito durante uma das aulas do PROA 2025 com a Debs. </p>
-<img src="ProjetoPetCare/img/DemoSite.png" width="500" />
+<img src="img/DemoSite.png" width="500" />
 
 
